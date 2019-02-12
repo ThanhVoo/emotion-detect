@@ -1,4 +1,5 @@
-# Touch Me Not
+# Touch Me Not | HackDavis 2019
+# Roshni Biswas, Austin Presley, Damilare and Juhi Park 
 
 ## Inspiration
 
