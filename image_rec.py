@@ -1,3 +1,7 @@
+"""
+Python script to detect faces and depict emotions using Google's Cloud Platform's Vision API.
+"""
+
 import cv2
 import os
 
